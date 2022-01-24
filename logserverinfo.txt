@@ -1,0 +1,33 @@
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:27017           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:27018           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:27019           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:8080            0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:50000           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:8081            0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:46624         0.0.0.0:*               LISTEN      2424/kited          
+tcp6       0      0 :::27017                :::*                    LISTEN      -                   
+tcp6       0      0 :::27018                :::*                    LISTEN      -                   
+tcp6       0      0 :::27019                :::*                    LISTEN      -                   
+tcp6       0      0 :::8080                 :::*                    LISTEN      -                   
+tcp6       0      0 :::50000                :::*                    LISTEN      -                   
+tcp6       0      0 :::8081                 :::*                    LISTEN      -                   
+tcp6       0      0 :::8082                 :::*                    LISTEN      7227/java           
+tcp6       0      0 :::36467                :::*                    LISTEN      6310/code           
+tcp6       0      0 :::22                   :::*                    LISTEN      -                   
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -                   
+tcp6       0      0 127.0.0.1:64120         :::*                    LISTEN      6652/java           
+udp        0      0 224.0.0.251:5353        0.0.0.0:*                           4865/chrome --enabl 
+udp        0      0 0.0.0.0:5353            0.0.0.0:*                           -                   
+udp        0      0 0.0.0.0:38524           0.0.0.0:*                           -                   
+udp        0      0 172.21.0.1:40362        0.0.0.0:*                           4865/chrome --enabl 
+udp        0      0 127.0.0.53:53           0.0.0.0:*                           -                   
+udp        0      0 0.0.0.0:631             0.0.0.0:*                           -                   
+udp        0      0 192.168.1.59:34024      0.0.0.0:*                           4865/chrome --enabl 
+udp6       0      0 :::5353                 :::*                                -                   
+udp6       0      0 :::46969                :::*                                -                   
