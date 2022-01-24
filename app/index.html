@@ -48,8 +48,8 @@
         const user = await response.json();
         console.log(JSON.stringify(user));
 
-        document.getElementById('name').textContent = user.name ? user.name : 'Maya Hayat';
-        document.getElementById('email').textContent = user.email ? user.email : 'maya.hayat.b@gmail.com';
+        document.getElementById('name').textContent = user.name ? user.name : 'Maya';
+        document.getElementById('email').textContent = user.email ? user.email : 'maya@gmail.com';
         document.getElementById('interests').textContent = user.interests ? user.interests : 'Everything';
 
         const cont = document.getElementById('container');
